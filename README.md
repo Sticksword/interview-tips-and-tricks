@@ -4,13 +4,13 @@
 
 Okay for the real advice. I have felt out that most standard 'hard' questions (and of course more challenging ones) involve multiple solutions. Therefore, it is your job to clarify and see what solution space is possible and how to achieve it.
 
-General guidelines:
+Basic steps:
 
-* 1. Brute force / Manual iteration through all possible combinations
-* 2. Use some sort method to get the data in a more organized manner, thus making it easier to compute the solution
-* 3. If sorting not valid option, use some data structure to get the data in a more organized manner
-* 4. Speaking of data structures, you might have to use algorithms and sorting on top of data structures, such as for DP
-* 5. If they say 'must be in-place' and must have O(1) space complexity, then you have a problem. You'll have to think of clever ways to reduce the solution to O(n) most likely. You can try using a couple pointers or perhaps
+1. Brute force / Manual iteration through all possible combinations
+2. Use some sort method to get the data in a more organized manner, thus making it easier to compute the solution
+3. If sorting not valid option, use some data structure to get the data in a more organized manner
+4. Speaking of data structures, you might have to use algorithms and sorting on top of data structures, such as for DP
+5. If they say 'must be in-place' and must have O(1) space complexity, then you have a problem. You'll have to think of clever ways to reduce the solution to O(n) most likely. You can try using a couple pointers or perhaps
 
 General Rules of Thumb:
 
