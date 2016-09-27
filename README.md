@@ -17,7 +17,7 @@ Okay for the real advice. I have felt out that most standard 'hard' questions (a
 * The harder and more competitive a company, the more obscure and less used data structures will be asked for in an 'optimal' solution.
 * For example, for a AR startup, I realized I needed to implement Hough Transform instead of using a hash table. I knew of Hough but was not familiar enough to be able to think of it and apply it as a solution.
 * Generally the idea is to get brute force down and examine the solution and find bottlenecks. Once found, use anything you can to improve upon the runtime. Rinse and repeat.
-* I say Google is the Gold Standard for interviews. Nothing outside the box (like Hough Transform). You'll be expected to give solid performances on all interviews onsite (at least from my experience) in order to pass. Nothing spectacular but needs to be solid from all 4 interviewers. The harder and more coveted companies also throw in design questions and expect you to know their tech stack.
+* IMHO, Google is the Gold Standard for interviews. Nothing outside the box (like Hough Transform). You'll be expected to give solid performances on all interviews onsite (at least from my experience) in order to pass. Nothing spectacular but needs to be solid from all 4 interviewers. The harder and more coveted companies also throw in design questions and expect you to know their tech stack.
 
 #### General interview question goals: ####
 
