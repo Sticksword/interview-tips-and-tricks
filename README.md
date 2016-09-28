@@ -40,3 +40,7 @@ What sorting methods to know:
 * Mergesort
 * Radix sort
 * Quicksort
+
+More advice written a while back:
+
+https://medium.com/@Stoic.Sleeper/tips-on-new-grad-software-interviews-27d91fbb31a#.sn8rtwhxa
