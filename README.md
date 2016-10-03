@@ -41,6 +41,10 @@ What sorting methods to know:
 * Radix sort
 * Quicksort
 
+Misc Notes:
+
+* When you end up brute force iterating through the solution space, quite often there is a DP solution that can help reduce runtime. Take time to analyze situation and see where you can reuse computation. One such example is during Google interview where you find number of possible ways to decode an number string. It was originally encoded as A -> 1, B -> 2, etc. 
+
 More advice written a while back:
 
 https://medium.com/@Stoic.Sleeper/tips-on-new-grad-software-interviews-27d91fbb31a#.sn8rtwhxa
