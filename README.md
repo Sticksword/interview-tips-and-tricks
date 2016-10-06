@@ -39,12 +39,13 @@ What sorting methods to know:
 
 * Mergesort
 * Radix sort
-* Quicksort
+* Quicksort (great use case: helps find kth element in linear time)
 
 Misc Tips:
 
 * When you end up brute force iterating through the solution space, quite often there is a DP solution that can help reduce runtime. Take time to analyze situation and see where you can reuse computation. One such example is during Google interview where you find number of possible ways to decode an number string. It was originally encoded as A -> 1, B -> 2, etc. 
 * When you have to find top k of something, chances are there is an answer that involves heaps. Examples: Find Kth smallest element in sorted matrix. Find the median of an integer stream (for this example, k is half of the input length). Sort and then binary search is another plausible answer for questions that involve finding the k'th element.
+* For problems involving finding a duplicate (or finding a "happy number"), can use the linked list cycle detection method of using 2 pointers, one fast and one slow (when slow enters cycle, fast is k steps ahead --> this means if they meet, slow will have moved x steps and fast will have moved k + 2x steps --> thus the formula becomes k + 2x = x --> x = -k --> they meet k steps before entry point)
 
 More advice written a while back:
 
