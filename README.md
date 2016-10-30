@@ -49,10 +49,17 @@ Misc Tips:
 * Code readability is really important. Simplicity is key.
 
 General flow of interview question should be:
-* solution conception
-* solution explanation via example
-* solution discussion about run and space complexity
-* improve solution if possible, otherwise code the solution
+* Solution conception
+* Solution explanation via example
+* Solution discussion about run and space complexity
+* Improve solution if possible, otherwise code the solution
+
+Rehash of above points:
+* Discuss solution
+* Optimize solution
+* Double check solution is applicable to the question at hand
+* Try to make simple
+* Write clear and readable code
 
 
 More advice written a while back:
