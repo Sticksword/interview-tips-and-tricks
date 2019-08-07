@@ -62,6 +62,4 @@ Rehash of above points:
 * Write clear and readable code
 
 
-More advice written a while back:
-
-https://medium.com/@Stoic.Sleeper/tips-on-new-grad-software-interviews-27d91fbb31a#.sn8rtwhxa
+[More advice written a while back](https://medium.com/@Stoic.Sleeper/tips-on-new-grad-software-interviews-27d91fbb31a#.sn8rtwhxa)
