@@ -1,4 +1,4 @@
-# interview-tips-and-tricks
+# Interview Tips and Tricks
 
 ## Nothing beats practice. Go fucking practice.
 
